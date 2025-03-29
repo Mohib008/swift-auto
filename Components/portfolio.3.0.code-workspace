@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../portfolio.3.0"
+	},
+	{
+		"path": "../../next-app"
+	},
+	{
+		"path": "../../node-project"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
